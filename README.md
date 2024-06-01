@@ -2,10 +2,11 @@
 
 ## Dashboard
 <img src ="https://github.com/Jahnavi-Thiruvidhi/Coffee-Shop-Sales-using-PowerBI/blob/main/Dashboard.png?raw=true">
-### Technical Stacks
-1. **Microsoft SQL Server**: Utilized for data storage and management.
-2. **Microsoft Power BI Desktop**: Employed for data visualization and business intelligence reporting.
-3. **Advanced DAX Codes**: Used to create complex measures and calculated columns for insightful analytics.
+
+### Technical Stacks<br>
+1. **Microsoft SQL Server**: Utilized for data storage and management.<br>
+2. **Microsoft Power BI Desktop**: Employed for data visualization and business intelligence reporting.<br>
+3. **Advanced DAX Codes**: Used to create complex measures and calculated columns for insightful analytics.<br>
 
 ### Power BI Techniques
 1. **Calendar Heat Maps**:
