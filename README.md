@@ -1,7 +1,7 @@
 # Coffee-Shop-Sales 
 
 ## Dashboard
-< img src = "
+< img src = "https://github.com/Jahnavi-Thiruvidhi/Coffee-Shop-Sales/blob/main/Dashboard.png?raw=true" >
 
 ### Technical Stacks
 1. **Microsoft SQL Server**: Utilized for data storage and management.
