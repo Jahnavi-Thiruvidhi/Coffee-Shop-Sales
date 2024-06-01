@@ -1,7 +1,7 @@
 # Coffee-Shop-Sales 
 
 ## Dashboard
-< img src ="https://github.com/Jahnavi-Thiruvidhi/Coffee-Shop-Sales-using-PowerBI/blob/main/Dashboard.png?raw=true">
+<img src ="https://github.com/Jahnavi-Thiruvidhi/Coffee-Shop-Sales-using-PowerBI/blob/main/Dashboard.png?raw=true">
 ### Technical Stacks
 1. **Microsoft SQL Server**: Utilized for data storage and management.
 2. **Microsoft Power BI Desktop**: Employed for data visualization and business intelligence reporting.
