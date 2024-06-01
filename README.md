@@ -1,12 +1,15 @@
 # Coffee-Shop-Sales 
 
+
 ## Dashboard
 <img src ="https://github.com/Jahnavi-Thiruvidhi/Coffee-Shop-Sales-using-PowerBI/blob/main/Dashboard.png?raw=true">
+
 
 ### Technical Stacks<br>
 1. **Microsoft SQL Server**: Utilized for data storage and management.<br>
 2. **Microsoft Power BI Desktop**: Employed for data visualization and business intelligence reporting.<br>
 3. **Advanced DAX Codes**: Used to create complex measures and calculated columns for insightful analytics.<br>
+
 
 ### Power BI Techniques
 1. **Calendar Heat Maps**:
@@ -18,6 +21,7 @@
 3. **Using Date/Time Functions**:
    - Apply functions like `DATEADD`, `DATEDIFF`, `TODAY`, and `NOW` to analyze data over different time periods.
    - Example: Calculate year-over-year growth, or filter data for the last 30 days.
+
 
 ### Key Insights
 
